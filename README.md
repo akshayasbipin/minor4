@@ -11,12 +11,12 @@
         <p>This data-driven approach equips restaurant owners with powerful insights, enabling them to make informed decisions that enhance customer satisfaction and overall business performance while helping customers find the best dining options tailored to their tastes.</p>
         <table>
             <tr>
-                <td><img src="o1.jpeg" alt="Visualization 1"></td>
-                <td><img src="o2.jpeg" alt="Visualization 2"></td>
+                <td><img src="img/o2.jpeg" alt="Rating_app"></td>
+                <td><img src="img/o1.jpeg" alt="Recommedation_app"></td>
             </tr>
             <tr>
-                <td><img src="rating_app.gif" alt="Rating App Demo"></td>
-                <td><img src="recom_app.gif" alt="Recommendation System Demo"></td>
+                <td><img src="vid/rating_app.gif" alt="Rating App Demo"></td>
+                <td><img src="vid/recom_app.gif" alt="Recommendation System Demo"></td>
             </tr>
         </table>
 </body>
