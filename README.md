@@ -14,7 +14,7 @@
                 <td><img src="o1.jpeg" alt="Visualization 1"></td>
                 <td><img src="o2.jpeg" alt="Visualization 2"></td>
             </tr>
-<!--             <tr>
+            <tr>
                 <td>
                     <video controls>
                         <source src="rating_app.mp4" type="video/mp4">
@@ -27,7 +27,7 @@
                         Your browser does not support the video tag.
                     </video>
                 </td>
-            </tr> -->
+            </tr>
         </table>
 </body>
 </html>
